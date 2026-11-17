@@ -1,4 +1,5 @@
 # Doodle Duel
+n**Play:** https://doodle.sagar-gavand.co.in
 
 A mobile-first multiplayer draw-and-guess party game. One player draws, everyone else races to guess the word in chat.
 
